@@ -1,7 +1,7 @@
 # Pre-requisites
 
 * Java 17
-* Gradle 6
+* Gradle 7
 
 # How to run the code
 
