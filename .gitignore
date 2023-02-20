@@ -30,4 +30,5 @@ build/
 .settings/
 .gradle/
 
+jacoco.xml
 jacoco.html

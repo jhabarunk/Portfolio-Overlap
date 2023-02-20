@@ -3,7 +3,7 @@ plugins {
     id 'jacoco'
 }
 
-group = 'com.example'
+group = 'com.barun.fabric.portfoliooverlap'
 version = '1.0'
 sourceCompatibility = 17
 targetCompatibility = 17
