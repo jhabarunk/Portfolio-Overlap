@@ -1,0 +1,18 @@
+{
+  "funds": [
+    {
+      "name": "FUND 1",
+      "stocks": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "name": "FUND 2",
+      "stocks": [
+        "C",
+        "D"
+      ]
+    }
+  ]
+}
